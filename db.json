@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Manuel Obed",
+      "empresa": "La BiblioMusiCineteca",
+      "email": "obedsg95@gmail.com",
+      "tel": "6222222333",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Sandra",
+      "empresa": "Kipeek ",
+      "email": "sandra@sandra.com",
+      "tel": "62222222",
+      "notas": "Nada",
+      "id": 4
+    }
+  ]
+}
