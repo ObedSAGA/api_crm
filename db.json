@@ -1,19 +1,19 @@
 {
   "clientes": [
     {
-      "nombre": "Manuel Obed",
+      "nombre": "Obed",
       "empresa": "La BiblioMusiCineteca",
-      "email": "obedsg95@gmail.com",
+      "email": "obed@obed.com",
       "tel": "6222222333",
-      "notas": "",
+      "notas": "Prepara documentación",
       "id": 1
     },
     {
       "nombre": "Sandra",
-      "empresa": "Kipeek ",
+      "empresa": "Kipeek Educación Canina",
       "email": "sandra@sandra.com",
       "tel": "62222222",
-      "notas": "Nada",
+      "notas": "Llamar mañana por la mañana",
       "id": 4
     }
   ]

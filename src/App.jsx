@@ -7,7 +7,6 @@ import ViewClient from './pages/ViewClient'
 
 
 function App() {
-
   return (
     <BrowserRouter>
       <Routes>
