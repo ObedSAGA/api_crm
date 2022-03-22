@@ -13,7 +13,7 @@ const ViewClient = () => {
   useEffect(() => {
     const getCLientAPI = async () => {
       try {
-        const url = `${import.meta.VITE_API_URL}/${id}`;
+        const url = `http://localhost:3004/clientes/${id}`;
         const resp = await fetch(url);
         const body = await resp.json();
         setClient(body);

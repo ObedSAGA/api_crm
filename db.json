@@ -4,16 +4,32 @@
       "nombre": "Obed",
       "empresa": "La BiblioMusiCineteca",
       "email": "obed@obed.com",
-      "tel": "6222222333",
-      "notas": "Prepara documentación",
+      "tel": "6222222222",
+      "notas": "Llamar mañana por la tarde a las 17 horas",
       "id": 1
     },
     {
       "nombre": "Sandra",
       "empresa": "Kipeek Educación Canina",
       "email": "sandra@sandra.com",
-      "tel": "62222222",
-      "notas": "Llamar mañana por la mañana",
+      "tel": "622222222",
+      "notas": "Entregar contrato",
+      "id": 2
+    },
+    {
+      "nombre": "Shia",
+      "empresa": "Bianni Managment",
+      "email": "shia@shia.com",
+      "tel": "955545445",
+      "notas": "Concretar reunión",
+      "id": 3
+    },
+    {
+      "nombre": "Ferran",
+      "empresa": "Finques Baile",
+      "email": "ferran@ferran.com",
+      "tel": "955545445",
+      "notas": "Aún no hemos podido localizarlo",
       "id": 4
     }
   ]

@@ -26,7 +26,7 @@ const FormNew = ({ client, loading }) => {
       let response;
       if (client.id) {
         //EDITANDO
-        const url = `${import.meta.VITE_API_URL}/${client.id}`;
+        const url = `http://localhost:3004/clientes/${client.id}`;
         response = await fetch(url, {
           method: "PUT",
           body: JSON.stringify(values),
@@ -37,7 +37,7 @@ const FormNew = ({ client, loading }) => {
 
       } else {
         //NUEVO CLIENTE
-        const url = import.meta.VITE_API_URL
+        const url = 'http://localhost:3004/clientes'
 
         response = await fetch(url, {
           method: "POST",
