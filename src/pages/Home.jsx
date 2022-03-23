@@ -61,6 +61,8 @@ const Home = () => {
         </tbody>
 
       </table>
+
+      <p>*Changes are faked and aren't persisted (just like JSONPlaceholder) <a className='text-blue-900 font-bold underline' rel="stylesheet" href="https://my-json-server.typicode.com/ObedSAGA/api_crm/clientes">API bootstraped by JSON Server</a></p>
     </>
   )
 }
